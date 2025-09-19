@@ -1,5 +1,10 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
+## Student Details
+
+- **Full Name:** `<Mason Delamont>`
+- **CCID:** `<mdelamon>`
+
 ## References and Resources
 
 stackoverflow - Fragments newInstance - [https://stackoverflow.com/questions/60128074/fragments-newinstance](url)
